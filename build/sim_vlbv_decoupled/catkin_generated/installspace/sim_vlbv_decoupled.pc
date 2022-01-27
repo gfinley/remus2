@@ -1,0 +1,8 @@
+prefix=/home/cavr/code/remus_ws/install
+
+Name: sim_vlbv_decoupled
+Description: Description of sim_vlbv_decoupled
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
